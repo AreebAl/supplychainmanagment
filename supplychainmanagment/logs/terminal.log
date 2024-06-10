@@ -1,0 +1,163 @@
+(node:12132) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:12132) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+server strted om port 9090
+MongoDB connected
+uploads\loading-1718011180520.png
+https://res.cloudinary.com/dyenpmugu/image/upload/v1718011182/i9n4rnhnwextjaaqfcax.png
+[90mundefined[39m
+{
+  name: [32m'Daily Inspection'[39m,
+  questions: [
+    {
+      type: [32m'boolean'[39m,
+      question: [32m'Cooler present?'[39m,
+      options: [],
+      required: [33mtrue[39m,
+      _id: new ObjectId([32m'6666c52cb2eb5ae9249d55ba'[39m)
+    },
+    {
+      type: [32m'dropdown'[39m,
+      question: [32m'Category'[39m,
+      options: [36m[Array][39m,
+      required: [33mtrue[39m,
+      _id: new ObjectId([32m'6666c52cb2eb5ae9249d55bb'[39m)
+    },
+    {
+      type: [32m'multiple_choice'[39m,
+      question: [32m'Driver details'[39m,
+      options: [36m[Array][39m,
+      required: [33mfalse[39m,
+      _id: new ObjectId([32m'6666c52cb2eb5ae9249d55bc'[39m)
+    }
+  ],
+  images: {
+    loading: [32m'https://res.cloudinary.com/dyenpmugu/image/upload/v1718011182/i9n4rnhnwextjaaqfcax.png'[39m
+  },
+  _id: new ObjectId([32m'6666c52cb2eb5ae9249d55b9'[39m),
+  createdAt: [35m2024-06-10T09:19:40.546Z[39m
+}
+this is service call
+::1 - - [10/Jun/2024:09:19:44 +0000] "POST /api/checklists/ HTTP/1.1" 201 697 "-" "PostmanRuntime/7.39.0"
+(node:3032) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:3032) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+server strted om port 9090
+MongoDB connected
+(node:8648) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:8648) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+server strted om port 9090
+MongoDB connected
+(node:9504) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:9504) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+server strted om port 9090
+MongoDB connected
+::1 - - [10/Jun/2024:11:13:00 +0000] "POST /api/checklists/ HTTP/1.1" - - "-" "PostmanRuntime/7.39.0"
+::1 - - [10/Jun/2024:11:13:19 +0000] "POST /api/checklists/ HTTP/1.1" - - "-" "PostmanRuntime/7.39.0"
+(node:12712) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:12712) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+server strted om port 9090
+MongoDB connected
+::1 - - [10/Jun/2024:11:20:10 +0000] "POST /api/checklists/ HTTP/1.1" - - "-" "PostmanRuntime/7.39.0"
+(node:15832) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:15832) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+server strted om port 9090
+MongoDB connected
+(node:8436) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:8436) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+server strted om port 9090
+MongoDB connected
+uploads\loading-1718018464776.png
+https://res.cloudinary.com/dyenpmugu/image/upload/v1718018467/uo6kptcrjslmla3zjcok.png
+[90mundefined[39m
+{
+  name: [32m'Daily Inspection'[39m,
+  questions: [
+    {
+      type: [32m'boolean'[39m,
+      question: [32m'Cooler present?'[39m,
+      options: [],
+      required: [33mtrue[39m,
+      _id: new ObjectId([32m'6666e1a08b3666e26a60b17b'[39m)
+    },
+    {
+      type: [32m'dropdown'[39m,
+      question: [32m'Category'[39m,
+      options: [36m[Array][39m,
+      required: [33mtrue[39m,
+      _id: new ObjectId([32m'6666e1a08b3666e26a60b17c'[39m)
+    },
+    {
+      type: [32m'multiple_choice'[39m,
+      question: [32m'Driver details'[39m,
+      options: [36m[Array][39m,
+      required: [33mfalse[39m,
+      _id: new ObjectId([32m'6666e1a08b3666e26a60b17d'[39m)
+    }
+  ],
+  images: {
+    loading: [32m'https://res.cloudinary.com/dyenpmugu/image/upload/v1718018467/uo6kptcrjslmla3zjcok.png'[39m
+  },
+  _id: new ObjectId([32m'6666e1a08b3666e26a60b17a'[39m),
+  createdAt: [35m2024-06-10T11:21:04.800Z[39m
+}
+this is service call
+::1 - - [10/Jun/2024:11:21:08 +0000] "POST /api/checklists/ HTTP/1.1" 201 697 "-" "PostmanRuntime/7.39.0"
+(node:11184) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:11184) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+server strted om port 9090
+MongoDB connected
+uploads\loading-1718018611702.png
+https://res.cloudinary.com/dyenpmugu/image/upload/v1718018614/zolfmrnah3sgtkmabil4.png
+[90mundefined[39m
+{
+  name: [32m'Daily Inspection'[39m,
+  questions: [
+    {
+      type: [32m'boolean'[39m,
+      question: [32m'Cooler present?'[39m,
+      options: [],
+      required: [33mtrue[39m,
+      _id: new ObjectId([32m'6666e233f59998be82b9f851'[39m)
+    },
+    {
+      type: [32m'dropdown'[39m,
+      question: [32m'Category'[39m,
+      options: [36m[Array][39m,
+      required: [33mtrue[39m,
+      _id: new ObjectId([32m'6666e233f59998be82b9f852'[39m)
+    },
+    {
+      type: [32m'multiple_choice'[39m,
+      question: [32m'Driver details'[39m,
+      options: [36m[Array][39m,
+      required: [33mfalse[39m,
+      _id: new ObjectId([32m'6666e233f59998be82b9f853'[39m)
+    }
+  ],
+  images: {
+    loading: [32m'https://res.cloudinary.com/dyenpmugu/image/upload/v1718018614/zolfmrnah3sgtkmabil4.png'[39m
+  },
+  _id: new ObjectId([32m'6666e233f59998be82b9f850'[39m),
+  createdAt: [35m2024-06-10T11:23:31.729Z[39m
+}
+this is service call
+::1 - - [10/Jun/2024:11:23:35 +0000] "POST /api/checklists/ HTTP/1.1" 201 697 "-" "PostmanRuntime/7.39.0"
+(node:10948) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:10948) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+server strted om port 9090
+MongoDB connected
+::1 - - [10/Jun/2024:11:31:41 +0000] "POST /api/orders HTTP/1.1" 400 73 "-" "PostmanRuntime/7.39.0"
+::1 - - [10/Jun/2024:11:31:52 +0000] "POST /api/orders HTTP/1.1" 201 175 "-" "PostmanRuntime/7.39.0"
+(node:5004) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:5004) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+server strted om port 9090
+MongoDB connected

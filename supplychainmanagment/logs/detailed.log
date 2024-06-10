@@ -1,0 +1,161 @@
+Request Method: POST
+Request URL: /api/checklists/
+Request Headers: {
+  "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NjJiMmVjN2U0ODhhM2I0MGZkOGFjNyIsImlhdCI6MTcxNzkxMTA5OSwiZXhwIjoxNzE4Nzc1MDk5fQ.ipIufWb4bS6gxJO814fS14kTjwg_PUpds9PhQA5SLB0",
+  "user-agent": "PostmanRuntime/7.39.0",
+  "accept": "*/*",
+  "postman-token": "cb022259-61fb-4ff6-af9a-08d8fc2e5c20",
+  "host": "localhost:9090",
+  "accept-encoding": "gzip, deflate, br",
+  "connection": "keep-alive",
+  "content-type": "multipart/form-data; boundary=--------------------------697937833532855018146284",
+  "content-length": "827626"
+}
+Response Status: 201
+Response Body: {"checklist":{"name":"Daily Inspection","questions":[{"type":"boolean","question":"Cooler present?","options":[],"required":true,"_id":"6666c2fb482b8be14ba0c679"},{"type":"dropdown","question":"Category","options":["eatable","drinkable"],"required":true,"_id":"6666c2fb482b8be14ba0c67a"},{"type":"multiple_choice","question":"Driver details","options":["Licence present","Driver number active","Air pressure good"],"required":false,"_id":"6666c2fb482b8be14ba0c67b"}],"images":{"loading":"https://res.cloudinary.com/dyenpmugu/image/upload/v1718010623/ltqensgiqjt22dukvyvy.png"},"_id":"6666c2fb482b8be14ba0c678","createdAt":"2024-06-10T09:10:19.375Z","__v":0},"createdBy":"6662b2ec7e488a3b40fd8ac7"}
+----------------------------------
+Request Method: POST
+Request URL: /api/checklists/
+Request Headers: {
+  "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NjJiMmVjN2U0ODhhM2I0MGZkOGFjNyIsImlhdCI6MTcxNzkxMTA5OSwiZXhwIjoxNzE4Nzc1MDk5fQ.ipIufWb4bS6gxJO814fS14kTjwg_PUpds9PhQA5SLB0",
+  "user-agent": "PostmanRuntime/7.39.0",
+  "accept": "*/*",
+  "postman-token": "7f163887-4dbe-4bc6-b64b-39d5ed3e8a28",
+  "host": "localhost:9090",
+  "accept-encoding": "gzip, deflate, br",
+  "connection": "keep-alive",
+  "content-type": "multipart/form-data; boundary=--------------------------292430434893319164622739",
+  "content-length": "827626"
+}
+Response Status: 201
+Response Body: {"checklist":{"name":"Daily Inspection","questions":[{"type":"boolean","question":"Cooler present?","options":[],"required":true,"_id":"6666c52cb2eb5ae9249d55ba"},{"type":"dropdown","question":"Category","options":["eatable","drinkable"],"required":true,"_id":"6666c52cb2eb5ae9249d55bb"},{"type":"multiple_choice","question":"Driver details","options":["Licence present","Driver number active","Air pressure good"],"required":false,"_id":"6666c52cb2eb5ae9249d55bc"}],"images":{"loading":"https://res.cloudinary.com/dyenpmugu/image/upload/v1718011182/i9n4rnhnwextjaaqfcax.png"},"_id":"6666c52cb2eb5ae9249d55b9","createdAt":"2024-06-10T09:19:40.546Z","__v":0},"createdBy":"6662b2ec7e488a3b40fd8ac7"}
+----------------------------------
+Request Method: POST
+Request URL: /api/checklists/
+Request Headers: {
+  "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NjJiMmVjN2U0ODhhM2I0MGZkOGFjNyIsImlhdCI6MTcxNzkxMTA5OSwiZXhwIjoxNzE4Nzc1MDk5fQ.ipIufWb4bS6gxJO814fS14kTjwg_PUpds9PhQA5SLB0",
+  "user-agent": "PostmanRuntime/7.39.0",
+  "accept": "*/*",
+  "postman-token": "6deaba8b-0762-4617-aee6-0c7bc5ff8fbc",
+  "host": "localhost:9090",
+  "accept-encoding": "gzip, deflate, br",
+  "connection": "keep-alive",
+  "content-type": "multipart/form-data; boundary=--------------------------943317383176919349225345",
+  "content-length": "827626"
+}
+Request Method: POST
+Request URL: /api/checklists/
+Request Headers: {
+  "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NjJiMmVjN2U0ODhhM2I0MGZkOGFjNyIsImlhdCI6MTcxNzkxMTA5OSwiZXhwIjoxNzE4Nzc1MDk5fQ.ipIufWb4bS6gxJO814fS14kTjwg_PUpds9PhQA5SLB0",
+  "user-agent": "PostmanRuntime/7.39.0",
+  "accept": "*/*",
+  "postman-token": "1ead41c3-c216-44db-932a-8e8716f8f293",
+  "host": "localhost:9090",
+  "accept-encoding": "gzip, deflate, br",
+  "connection": "keep-alive",
+  "content-type": "multipart/form-data; boundary=--------------------------413490656022518776876556",
+  "content-length": "827626"
+}
+Request Method: POST
+Request URL: /api/checklists/
+Request Headers: {
+  "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NjJiMmVjN2U0ODhhM2I0MGZkOGFjNyIsImlhdCI6MTcxNzkxMTA5OSwiZXhwIjoxNzE4Nzc1MDk5fQ.ipIufWb4bS6gxJO814fS14kTjwg_PUpds9PhQA5SLB0",
+  "user-agent": "PostmanRuntime/7.39.0",
+  "accept": "*/*",
+  "postman-token": "3448e909-cdf0-4296-b766-1c23999c2fef",
+  "host": "localhost:9090",
+  "accept-encoding": "gzip, deflate, br",
+  "connection": "keep-alive",
+  "content-type": "multipart/form-data; boundary=--------------------------278976955571495835886923",
+  "content-length": "827626"
+}
+Request Method: POST
+Request URL: /api/checklists/
+Request Headers: {
+  "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NjJiMmVjN2U0ODhhM2I0MGZkOGFjNyIsImlhdCI6MTcxNzkxMTA5OSwiZXhwIjoxNzE4Nzc1MDk5fQ.ipIufWb4bS6gxJO814fS14kTjwg_PUpds9PhQA5SLB0",
+  "user-agent": "PostmanRuntime/7.39.0",
+  "accept": "*/*",
+  "postman-token": "b112b62d-93c0-4836-b83d-e4742afe0bf1",
+  "host": "localhost:9090",
+  "accept-encoding": "gzip, deflate, br",
+  "connection": "keep-alive",
+  "content-type": "multipart/form-data; boundary=--------------------------418115673182577711738659",
+  "content-length": "827626"
+}
+Request Method: POST
+Request URL: /api/checklists/
+Request Headers: {
+  "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NjJiMmVjN2U0ODhhM2I0MGZkOGFjNyIsImlhdCI6MTcxNzkxMTA5OSwiZXhwIjoxNzE4Nzc1MDk5fQ.ipIufWb4bS6gxJO814fS14kTjwg_PUpds9PhQA5SLB0",
+  "user-agent": "PostmanRuntime/7.39.0",
+  "accept": "*/*",
+  "postman-token": "4080186f-934f-4488-a419-0d376782c08b",
+  "host": "localhost:9090",
+  "accept-encoding": "gzip, deflate, br",
+  "connection": "keep-alive",
+  "content-type": "multipart/form-data; boundary=--------------------------138351967149962534731548",
+  "content-length": "827626"
+}
+Request Method: POST
+Request URL: /api/checklists/
+Request Headers: {
+  "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NjJiMmVjN2U0ODhhM2I0MGZkOGFjNyIsImlhdCI6MTcxNzkxMTA5OSwiZXhwIjoxNzE4Nzc1MDk5fQ.ipIufWb4bS6gxJO814fS14kTjwg_PUpds9PhQA5SLB0",
+  "user-agent": "PostmanRuntime/7.39.0",
+  "accept": "*/*",
+  "postman-token": "2614f783-3bcd-49ac-b0b3-21bfb6dcc9be",
+  "host": "localhost:9090",
+  "accept-encoding": "gzip, deflate, br",
+  "connection": "keep-alive",
+  "content-type": "multipart/form-data; boundary=--------------------------997766348909497939361727",
+  "content-length": "827626"
+}
+Response Status: 201
+Response Body: {"checklist":{"name":"Daily Inspection","questions":[{"type":"boolean","question":"Cooler present?","options":[],"required":true,"_id":"6666e1a08b3666e26a60b17b"},{"type":"dropdown","question":"Category","options":["eatable","drinkable"],"required":true,"_id":"6666e1a08b3666e26a60b17c"},{"type":"multiple_choice","question":"Driver details","options":["Licence present","Driver number active","Air pressure good"],"required":false,"_id":"6666e1a08b3666e26a60b17d"}],"images":{"loading":"https://res.cloudinary.com/dyenpmugu/image/upload/v1718018467/uo6kptcrjslmla3zjcok.png"},"_id":"6666e1a08b3666e26a60b17a","createdAt":"2024-06-10T11:21:04.800Z","__v":0},"createdBy":"6662b2ec7e488a3b40fd8ac7"}
+----------------------------------
+Request Method: POST
+Request URL: /api/checklists/
+Request Headers: {
+  "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NjJiMmVjN2U0ODhhM2I0MGZkOGFjNyIsImlhdCI6MTcxNzkxMTA5OSwiZXhwIjoxNzE4Nzc1MDk5fQ.ipIufWb4bS6gxJO814fS14kTjwg_PUpds9PhQA5SLB0",
+  "user-agent": "PostmanRuntime/7.39.0",
+  "accept": "*/*",
+  "postman-token": "8b07f678-65fd-4b23-b74c-cdbb62e53b49",
+  "host": "localhost:9090",
+  "accept-encoding": "gzip, deflate, br",
+  "connection": "keep-alive",
+  "content-type": "multipart/form-data; boundary=--------------------------610578522268579780482598",
+  "content-length": "827626"
+}
+Response Status: 201
+Response Body: {"checklist":{"name":"Daily Inspection","questions":[{"type":"boolean","question":"Cooler present?","options":[],"required":true,"_id":"6666e233f59998be82b9f851"},{"type":"dropdown","question":"Category","options":["eatable","drinkable"],"required":true,"_id":"6666e233f59998be82b9f852"},{"type":"multiple_choice","question":"Driver details","options":["Licence present","Driver number active","Air pressure good"],"required":false,"_id":"6666e233f59998be82b9f853"}],"images":{"loading":"https://res.cloudinary.com/dyenpmugu/image/upload/v1718018614/zolfmrnah3sgtkmabil4.png"},"_id":"6666e233f59998be82b9f850","createdAt":"2024-06-10T11:23:31.729Z","__v":0},"createdBy":"6662b2ec7e488a3b40fd8ac7"}
+----------------------------------
+Request Method: POST
+Request URL: /api/orders
+Request Headers: {
+  "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NjJiMmVjN2U0ODhhM2I0MGZkOGFjNyIsImlhdCI6MTcxNzkxMTA5OSwiZXhwIjoxNzE4Nzc1MDk5fQ.ipIufWb4bS6gxJO814fS14kTjwg_PUpds9PhQA5SLB0",
+  "content-type": "application/json",
+  "user-agent": "PostmanRuntime/7.39.0",
+  "accept": "*/*",
+  "postman-token": "725ca21f-4a00-4c3f-872f-4642ebf2f98f",
+  "host": "localhost:9090",
+  "accept-encoding": "gzip, deflate, br",
+  "connection": "keep-alive",
+  "content-length": "75"
+}
+Response Status: 400
+Response Body: {"message":"Order validation failed: client: Path `client` is required."}
+----------------------------------
+Request Method: POST
+Request URL: /api/orders
+Request Headers: {
+  "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NjJiMmVjN2U0ODhhM2I0MGZkOGFjNyIsImlhdCI6MTcxNzkxMTA5OSwiZXhwIjoxNzE4Nzc1MDk5fQ.ipIufWb4bS6gxJO814fS14kTjwg_PUpds9PhQA5SLB0",
+  "content-type": "application/json",
+  "user-agent": "PostmanRuntime/7.39.0",
+  "accept": "*/*",
+  "postman-token": "73fa92e4-356f-4b16-8b61-9e8cb81016f4",
+  "host": "localhost:9090",
+  "accept-encoding": "gzip, deflate, br",
+  "connection": "keep-alive",
+  "content-length": "118"
+}
+Response Status: 201
+Response Body: {"client":"60d5ec49a6dd9c39f8b6c423","checklist":"60d5ec49a6dd9c39f8b6c4d2","status":"created","_id":"6666e428993244393a3437f1","createdAt":"2024-06-10T11:31:52.548Z","__v":0}
+----------------------------------
